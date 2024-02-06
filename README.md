@@ -1,6 +1,12 @@
 # About the files content
 
-The directory "data" contains two files: dataset_banco.csv and dataset_banco_cleanned.csv
+1. The directory "data" contains two files:
+    - 'dataset_banco.csv' : Brute dataset with some non-senses values or errors.
+    - 'dataset_banco_cleanned.csv': Cleanned dataset.
+
+2. Two jupyter notebook:
+    - 'Cleanning_data.ipynb' : 
+    - 'EDA.ipynb' : 
 
 # About this project
 
