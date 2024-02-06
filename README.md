@@ -1,4 +1,4 @@
-# About the files content
+### About the files content
 
 1. The directory "data" contains two files:
     - 'dataset_banco.csv' : Brute dataset with some non-senses values or errors.
@@ -10,4 +10,4 @@
 
 # About this project
 
-In this project, I used the public dataset that it is available in the youtube channel of Codificando bits  (see in the description box of the video). The focus of this project is to describe or recognize the coustomer’s profile of a bank. However, at first, I cleanned the dataset in order to implement the Exploratory Data Analysis.
+In this project, I used the public dataset that it is available in the youtube channel of Codificando bits  (see in the description box of the video). The focus of this project is to describe or recognize the coustomer’s profile of a bank. However, at first, I cleanned the dataset in order to implement the Exploratory Data Analysis (EDA) as a second and final step.
