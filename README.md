@@ -5,8 +5,8 @@
     - 'dataset_banco_cleanned.csv': Cleanned dataset.
 
 2. Two jupyter notebook:
-    - 'Cleanning_data.ipynb' : 
-    - 'EDA.ipynb' : 
+    - 'Cleanning_data.ipynb' : The file where I developed the cleanning process.
+    - 'EDA.ipynb' : In this file, I made some Exploratory Data Analysis (Independent, Uni-variate and bi-variate analysis).
 
 # About this project
 
